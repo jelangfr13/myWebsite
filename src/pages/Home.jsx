@@ -4,10 +4,10 @@ function Home() {
         //     <h1>Welcome to my personal website!</h1>
         //     <h1>This site is still under progress ^^</h1>
         // </div>
-        
 
-        <section id="home" className="h-screen flex items-center justify-center bg-white dark:bg-gray-900">
-            <div className="px-4 pb-10 max-w-screen-xl grid lg:grid-cols-2 lg:gap-16 mr-[-120px]">
+        <section id="home" className="bg-white dark:bg-gray-900">
+            {/* <div className="px-4 pb-10 max-w-screen-xl grid lg:grid-cols-2 lg:gap-16"> */}
+            <div className="h-screen flex flex-row items-center justify-center px-[200px] gap-16">
                 <div className="flex flex-col justify-center">
                     <h1 className="mb-8 font-extrabold tracking-tight leading-none text-gray-900 lg:text-[42px] dark:text-white">
                         Hi! Im Jelang Fikri Ramadhan
@@ -17,7 +17,7 @@ function Home() {
                     </p>
                 </div>
                 <div>
-                    <img src="https://i.imgur.com/9JR1K28.png" alt="Profile Picture" className="max-h-[500px]"/>
+                    <img src="https://i.imgur.com/9JR1K28.png" alt="Profile Picture"/>
                 </div>
             </div>
         </section>
