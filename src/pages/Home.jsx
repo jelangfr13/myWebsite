@@ -13,7 +13,7 @@ function Home() {
                         Hi! Im Jelang Fikri Ramadhan
                     </h1>
                     <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
-                        I am a graduate of the Faculty of Computer Science, University of Jember. I master several programming languages for <b>Front-End Web Development</b> and have expertise in <b>UI/UX Design</b> and have a high interest in the world of <b>Graphic Design</b>.
+                        I am a graduate of the Faculty of Computer Science at the University of Jember, with proficiency in programming languages for <b>Front-End Web Development</b>, experience in <b>UI/UX Design</b>, and a solid background in <b>Graphic Design</b>.
                     </p>
                 </div>
                 <div>
