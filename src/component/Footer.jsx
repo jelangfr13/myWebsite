@@ -8,7 +8,7 @@ function Footer() {
                             <a href="#home" className="hover:underline me-4 md:me-6">Home</a>
                         </li>
                         <li>
-                            <a href="#" className="hover:underline me-4 md:me-6">About Me</a>
+                            <a href="#educations" className="hover:underline me-4 md:me-6">About Me</a>
                         </li>
                         <li>
                             <a href="#" className="hover:underline me-4 md:me-6">Project</a>

@@ -12,7 +12,7 @@ function Home() {
                     <h1 className="mb-8 font-extrabold tracking-tight leading-none text-gray-900 lg:text-[42px] dark:text-white">
                         Hi! Im Jelang Fikri Ramadhan
                     </h1>
-                    <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
+                    <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400 text-justify">
                         I am a graduate of the Faculty of Computer Science at the University of Jember, with proficiency in programming languages for <b>Front-End Web Development</b>, experience in <b>UI/UX Design</b>, and a solid background in <b>Graphic Design</b>.
                     </p>
                 </div>
