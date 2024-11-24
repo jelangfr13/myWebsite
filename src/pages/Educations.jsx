@@ -3,9 +3,9 @@ import Image2 from '../assets/unej.png';
 
 function Educations () {
     return (
-        <div id="educations" className="mx-40">
+        <div id="educations" className="mx-40 mp:mx-10 mp:mt-10">
             <div>
-                <h1 className="text-3xl font-bold flex items-center gap-2">
+                <h1 className="text-3xl font-bold flex items-center gap-2 mp:flex mp:items-center mp:justify-center">
                 <svg
                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-11 w-11">
                     <path d="M11.7 2.805a.75.75 0 01.6 0A60.65 60.65 0 0122.83 8.72a.75.75 0 01-.231 1.337 49.949 49.949 0 00-9.902 3.912l-.003.002-.34.18a.75.75 0 01-.707 0A50.009 50.009 0 007.5 12.174v-.224c0-.131.067-.248.172-.311a54.614 54.614 0 014.653-2.52.75.75 0 00-.65-1.352 56.129 56.129 0 00-4.78 2.589 1.858 1.858 0 00-.859 1.228 49.803 49.803 0 00-4.634-1.527.75.75 0 01-.231-1.337A60.653 60.653 0 0111.7 2.805z" />
@@ -17,16 +17,16 @@ function Educations () {
                 <hr class="h-px my-8 bg-gray-300 border-0 dark:bg-gray-700"></hr>
             </div>
 
-            <a class="flex flex-col #items-center bg-white border border-gray-200 rounded-lg shadow #md:flex-row hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 px-10 py-5">
-                <div className="flex flex-row items-center">
-                    <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-32 md:rounded-none md:rounded-s-lg" src={Image1} alt=""/>
+            <a class="flex flex-col #items-center bg-white border border-gray-200 rounded-lg shadow mp:flex-col hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 px-10 py-5">
+                <div className="flex flex-row items-center mp:flex-col">
+                    <img class="object-cover w-full rounded-t-lg h-96 mp:h-[20%]" src={Image1} alt=""/>
                     <div class="flex flex-col justify-between p-4 leading-normal">
-                        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Senior High School 94 Jakarta</h5>
-                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400"><b>2017 - 2020</b> with GPA 89.86 / 100</p>
+                        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white mp:text-center">Senior High School 94 Jakarta</h5>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 mp:text-center"><b>2017 - 2020</b> with GPA 89.86 / 100</p>
                     </div>
                 </div>
 
-                <ol class="relative border-s border-gray-200 dark:border-gray-700 mt-3">                  
+                <ol class="relative border-s border-gray-200 dark:border-gray-700 mt-3 mp:flex mp:flex-col mp:justify-center">                  
                     <li class="mb-5 ms-4">
                         <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
                         {/* <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">February 2022</time> */}
@@ -46,21 +46,23 @@ function Educations () {
                         </p>
                     </li>
 
-                    <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-                        Read more
-                        <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </a>
+                    <div className='mp:flex mp:items-center mp:justify-center'>
+                        <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                            Read more
+                            <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                            </svg>
+                        </a>
+                    </div>
                 </ol>
             </a>
             
-            <a class="mt-10 flex flex-col #items-center bg-white border border-gray-200 rounded-lg shadow #md:flex-row hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 px-10 py-5">
-                <div className="flex flex-row items-center">
-                    <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-32 md:rounded-none md:rounded-s-lg" src={Image2} alt=""/>
+            <a class="mt-10 flex flex-col #items-center bg-white border border-gray-200 rounded-lg shadow mp:flex-col hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 px-10 py-5">
+                <div className="flex flex-row items-center mp:flex-col">
+                    <img class="object-cover w-full rounded-t-lg h-96 mp:h-[20%]" src={Image2} alt=""/>
                     <div class="flex flex-col justify-between p-4 leading-normal">
-                        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">University of Jember</h5>
-                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400"><b>2020 - 2024</b> with GPA 3.6 / 4</p>
+                        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white mp:text-center">University of Jember</h5>
+                        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 mp:text-center"><b>2020 - 2024</b> with GPA 3.6 / 4</p>
                     </div>
                 </div>
 
@@ -91,12 +93,14 @@ function Educations () {
                         </p>
                     </li>
 
-                    <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-                        Read more
-                        <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </a>
+                    <div className='mp:flex mp:items-center mp:justify-center'>
+                        <a href="#" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                            Read more
+                            <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                            </svg>
+                        </a>
+                    </div>
                 </ol>
             </a>
 
