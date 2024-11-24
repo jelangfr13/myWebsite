@@ -19,7 +19,7 @@ function Educations () {
 
             <a class="flex flex-col #items-center bg-white border border-gray-200 rounded-lg shadow mp:flex-col hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 px-10 py-5">
                 <div className="flex flex-row items-center mp:flex-col">
-                    <img class="object-cover w-full rounded-t-lg h-96 mp:h-[20%]" src={Image1} alt=""/>
+                    <img class="object-cover w-full rounded-t-lg max-h-52 max-w-52 mp:h-[20%]" src={Image1} alt=""/>
                     <div class="flex flex-col justify-between p-4 leading-normal">
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white mp:text-center">Senior High School 94 Jakarta</h5>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 mp:text-center"><b>2017 - 2020</b> with GPA 89.86 / 100</p>
@@ -59,7 +59,7 @@ function Educations () {
             
             <a class="mt-10 flex flex-col #items-center bg-white border border-gray-200 rounded-lg shadow mp:flex-col hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 px-10 py-5">
                 <div className="flex flex-row items-center mp:flex-col">
-                    <img class="object-cover w-full rounded-t-lg h-96 mp:h-[20%]" src={Image2} alt=""/>
+                    <img class="object-cover w-full rounded-t-lg max-h-52 max-w-52 mp:h-[20%]" src={Image2} alt=""/>
                     <div class="flex flex-col justify-between p-4 leading-normal">
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white mp:text-center">University of Jember</h5>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 mp:text-center"><b>2020 - 2024</b> with GPA 3.6 / 4</p>
