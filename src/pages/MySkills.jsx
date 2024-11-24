@@ -18,7 +18,7 @@ function MySkills () {
                     <hr class="h-px my-8 bg-gray-300 border-0 dark:bg-gray-700"></hr>
                 </div>
 
-                <div className="flex items-center justify-center gap-5 mp:flex-wrap">
+                <div className="flex flex-wrap items-center justify-center gap-5 #mp:flex-wrap">
                     <div class="group">
                         <a class="flex flex-col items-center gap-1 bg-white border border-gray-200 rounded-lg shadow #md:flex-row hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 px-7 py-5">
                             <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 128 128"><path fill="#001e36" d="M22.667 1.6h82.666C117.867 1.6 128 11.733 128 24.267v79.466c0 12.534-10.133 22.667-22.667 22.667H22.667C10.133 126.4 0 116.267 0 103.733V24.267C0 11.733 10.133 1.6 22.667 1.6"/><path fill="#31a8ff" d="M45.867 33.333c-1.6 0-3.2 0-4.853.054c-1.654.053-3.201.053-4.641.107c-1.44.053-2.773.053-4.053.106c-1.227.053-2.08.053-2.987.053c-.373 0-.533.213-.533.587v54.88c0 .48.213.694.64.694h10.347c.373-.054.64-.374.586-.747v-17.12c1.013 0 1.76 0 2.294.053c.533.053 1.386.053 2.666.053c4.374 0 8.374-.48 12-1.813c3.467-1.28 6.454-3.52 8.587-6.507q3.2-4.48 3.2-11.36c0-2.4-.426-4.693-1.226-6.933A17 17 0 0 0 64 39.36a19.05 19.05 0 0 0-7.147-4.374c-2.987-1.12-6.613-1.653-10.986-1.653m1.19 10.505c1.9.036 3.75.368 5.476 1.068c1.547.587 2.827 1.654 3.734 3.04a8.8 8.8 0 0 1 1.227 4.748c0 2.346-.534 4.16-1.654 5.493c-1.174 1.333-2.667 2.347-4.373 2.827c-1.974.64-4.054.959-6.134.959h-2.827c-.64 0-1.332-.053-2.079-.106v-17.92c.373-.054 1.12-.107 2.187-.053c1.013-.054 2.239-.054 3.626-.054q.41-.01.817-.002m44.73 2.723c-3.787 0-6.934.586-9.44 1.866c-2.293 1.067-4.267 2.773-5.6 4.906c-1.173 1.974-1.814 4.16-1.814 6.454a11.45 11.45 0 0 0 1.227 5.44a13.8 13.8 0 0 0 4.054 4.533a32.6 32.6 0 0 0 7.573 3.84c2.613 1.013 4.373 1.813 5.227 2.506c.853.694 1.28 1.387 1.28 2.134c0 .96-.587 1.867-1.44 2.24c-.96.48-2.4.747-4.427.747c-2.133 0-4.267-.267-6.294-.8a22.8 22.8 0 0 1-6.613-2.613c-.16-.107-.32-.16-.48-.053c-.16.106-.213.319-.213.479v9.28c-.053.427.213.8.587 1.013a21.5 21.5 0 0 0 5.44 1.707c2.4.48 4.799.693 7.252.693c3.84 0 7.041-.586 9.654-1.706c2.4-.96 4.48-2.613 5.973-4.747a12.4 12.4 0 0 0 2.08-7.093a11.5 11.5 0 0 0-1.226-5.493c-1.014-1.814-2.454-3.307-4.214-4.427a38.6 38.6 0 0 0-8.213-3.894a49 49 0 0 1-3.787-1.76c-.693-.373-1.333-.853-1.813-1.44c-.32-.427-.533-.906-.533-1.386s.16-1.013.426-1.44c.374-.533.96-.907 1.653-1.067c1.014-.266 2.134-.427 3.2-.374c2.027 0 4 .267 5.974.694c1.814.373 3.52.96 5.12 1.814c.213.106.48.106.96 0a.66.66 0 0 0 .267-.534v-8.693c0-.214-.054-.427-.107-.64c-.107-.213-.32-.427-.533-.48A18.8 18.8 0 0 0 98.4 47.04a46 46 0 0 0-6.613-.48z"/></svg>
@@ -49,8 +49,6 @@ function MySkills () {
                             <h1 className="hidden group-hover:block font-semibold">Figma</h1>
                         </a>
                     </div>
-                </div>
-                <div className="flex items-center justify-center gap-5 mt-5 mp:flex-wrap">
                     <div class="group">
                         <a class="flex flex-col items-center gap-1 bg-white border border-gray-200 rounded-lg shadow #md:flex-row hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 px-7 py-5">
                             <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 256 256"><g fill="none"><rect width="256" height="256" fill="#e14e1d" rx="60"/><path fill="#fff" d="m48 38l8.61 96.593h110.71l-3.715 41.43l-35.646 9.638l-35.579-9.624l-2.379-26.602H57.94l4.585 51.281l65.427 18.172l65.51-18.172l8.783-98.061H85.824l-2.923-32.71h122.238L208 38z"/><path fill="#ebebeb" d="M128 38H48l8.61 96.593H128v-31.938H85.824l-2.923-32.71H128zm0 147.647l-.041.014l-35.579-9.624l-2.379-26.602H57.94l4.585 51.281l65.427 18.172l.049-.014z"/></g></svg>
@@ -93,8 +91,6 @@ function MySkills () {
                             <h1 className="hidden group-hover:block font-semibold">GIT</h1>
                         </a>
                     </div>
-                </div>
-                <div className="flex items-center justify-center gap-5 mt-5 mp:flex-wrap">
                     <div class="group">
                         <a class="flex flex-col items-center gap-1 bg-white border border-gray-200 rounded-lg shadow #md:flex-row hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 px-7 py-5">
                             <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24"><path fill="#ff0000" d="M19.94 5.59v12.8q0 .67-.39 1.2q-.39.52-1.05.7l-5.73 1.65q-.12.03-.27.06h-.22q-.33 0-.6-.09t-.55-.24l-3.75-2.12q-.21-.12-.33-.31t-.12-.43q0-.36.26-.61q.25-.25.61-.25h4.86V6.14L9 7.44q-.43.16-.7.56q-.27.38-.27.85v6.73q0 .42-.21.76q-.2.34-.57.54l-1.72.94q-.24.13-.48.13q-.41 0-.7-.29t-.29-.71V7.47q0-.52.27-.97q.28-.5.73-.76l6.16-3.5q.21-.12.45-.18t.48-.06q.17 0 .31.03q.14.02.31.07l5.73 1.59q.33.09.59.27t.45.43q.2.26.3.56q.1.31.1.64m-1.32 12.8V5.59q0-.23-.12-.4q-.15-.19-.37-.23l-2.82-.78Q15 4.09 14.65 4q-.33-.11-.65-.19v16.4L18.13 19q.22-.04.37-.21q.12-.17.12-.4"/></svg>
@@ -119,6 +115,10 @@ function MySkills () {
                             <h1 className="hidden group-hover:block font-semibold">Microsoft Power Point</h1>
                         </a>
                     </div>
+                </div>
+                {/* <div className="flex items-center justify-center gap-5 mt-5 mp:flex-wrap">
+                </div> */}
+                <div className="flex items-center justify-center gap-5 mt-5 mp:flex-wrap">
                 </div>
             </div>
         </div>
