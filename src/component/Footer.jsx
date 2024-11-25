@@ -11,10 +11,10 @@ function Footer() {
                             <a href="#educations" className="hover:underline me-4 md:me-6">About Me</a>
                         </li>
                         <li>
-                            <a href="#Projects" className="hover:underline me-4 md:me-6">Project</a>
+                            <a href="#Work" className="hover:underline me-4 md:me-6">Works</a>
                         </li>
                         <li>
-                            <a href="#" className="hover:underline me-4 md:me-6">Connect With Me</a>
+                            <a href="#Projects" className="hover:underline me-4 md:me-6">Projects</a>
                         </li>
                     </ul>
                     <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
