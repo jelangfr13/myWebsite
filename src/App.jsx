@@ -4,6 +4,7 @@ import Educations from "./pages/Educations";
 import Home from "./pages/Home";
 import MySkills from "./pages/MySkills";
 import Projects from "./pages/Projects";
+import Sosmed from "./pages/Sosmed";
 import Work from "./pages/Work";
 
 
@@ -16,6 +17,7 @@ export default function APP() {
       <Work></Work>
       <MySkills></MySkills>
       <Projects></Projects>
+      {/* <Sosmed></Sosmed> */}
       <Footer></Footer>
     </div>
   )

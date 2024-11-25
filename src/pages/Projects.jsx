@@ -18,15 +18,15 @@ function Projects () {
 
             <div className='flex justify-around gap-10 mp:flex-col'>
                 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-                    <a href="https://jelangfikriramadhan.medium.com/ux-case-study-seen-f9f4c4e1064d">
+                    <a href="https://jelangfikriramadhan.medium.com/ux-case-study-seen-f9f4c4e1064d" target="_blank">
                         <img class="rounded-t-lg" src={SEEN} alt="SEEN" />
                     </a>
                     <div class="p-5">
-                        <a href="https://jelangfikriramadhan.medium.com/ux-case-study-seen-f9f4c4e1064d">
+                        <a href="https://jelangfikriramadhan.medium.com/ux-case-study-seen-f9f4c4e1064d" target="_blank">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SEEN</h5>
                         </a>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">This project is a design mock-up for a draft app called "SEEN." This application serves as a mobile-based e-learning and online course platform.</p>
-                        <a href="https://jelangfikriramadhan.medium.com/ux-case-study-seen-f9f4c4e1064d" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                        <a href="https://jelangfikriramadhan.medium.com/ux-case-study-seen-f9f4c4e1064d" target="_blank" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                             Read more
                             <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -35,15 +35,15 @@ function Projects () {
                     </div>
                 </div>
                 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-                    <a href="https://jelangfikriramadhan.medium.com/ux-case-study-skillearn-741a5c969f8a">
-                        <img class="rounded-t-lg" src={Skillearn} alt="SEEN" />
+                    <a href="https://jelangfikriramadhan.medium.com/ux-case-study-skillearn-741a5c969f8a" target="_blank">
+                        <img class="rounded-t-lg" src={Skillearn} alt="Skilllearn" />
                     </a>
                     <div class="p-5">
-                        <a href="https://jelangfikriramadhan.medium.com/ux-case-study-skillearn-741a5c969f8a">
+                        <a href="https://jelangfikriramadhan.medium.com/ux-case-study-skillearn-741a5c969f8a" target="_blank">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Skillearn</h5>
                         </a>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">This project is a design mock-up for a draft app called "Skillearn." This application serves as a mobile-based e-learning and online course platform.</p>
-                        <a href="https://jelangfikriramadhan.medium.com/ux-case-study-skillearn-741a5c969f8a" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                        <a href="https://jelangfikriramadhan.medium.com/ux-case-study-skillearn-741a5c969f8a" target="_blank" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                             Read more
                             <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -52,15 +52,15 @@ function Projects () {
                     </div>
                 </div>
                 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-                    <a href="https://jelangfikriramadhan.medium.com/ui-ux-design-el-musica-83ea4c1371">
-                        <img class="rounded-t-lg" src={ElMusica} alt="SEEN" />
+                    <a href="https://jelangfikriramadhan.medium.com/ui-ux-design-el-musica-83ea4c1371" target="_blank">
+                        <img class="rounded-t-lg" src={ElMusica} alt="Elmusica" />
                     </a>
                     <div class="p-5">
-                        <a href="https://jelangfikriramadhan.medium.com/ui-ux-design-el-musica-83ea4c1371">
+                        <a href="https://jelangfikriramadhan.medium.com/ui-ux-design-el-musica-83ea4c1371" target="_blank">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">El-Musica</h5>
                         </a>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">This project is a design mock-up for a draft app called "El-Musica." This application serves as a mobile-based music platform.</p>
-                        <a href="https://jelangfikriramadhan.medium.com/ui-ux-design-el-musica-83ea4c1371" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                        <a href="https://jelangfikriramadhan.medium.com/ui-ux-design-el-musica-83ea4c1371" target="_blank" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                             Read more
                             <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -71,15 +71,15 @@ function Projects () {
             </div>
             <div className='flex justify-around gap-10 mt-10 mp:flex-col'>
                 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-                    <a href="https://upcycler.vercel.app/">
-                        <img class="rounded-t-lg" src={UpCycle} alt="SEEN" />
+                    <a href="https://upcycler.vercel.app/" target="_blank">
+                        <img class="rounded-t-lg" src={UpCycle} alt="UpCycle" />
                     </a>
                     <div class="p-5">
-                        <a href="https://upcycler.vercel.app/">
+                        <a href="https://upcycler.vercel.app/" target="_blank">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">UpCycle</h5>
                         </a>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">This project involves designing a web-based application system that focuses on the environment and health. By using waste as the central theme, my team and I have developed a website-based waste bank system that can be accessed anytime and from anywhere.</p>
-                        <a href="https://upcycler.vercel.app/" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                        <a href="https://upcycler.vercel.app/" target="_blank" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                             Read more
                             <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -88,15 +88,15 @@ function Projects () {
                     </div>
                 </div>
                 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-                    <a href="https://mojavehome.com/">
-                        <img class="rounded-t-lg" src={Mojave} alt="SEEN" />
+                    <a href="https://mojavehome.com/" target="_blank">
+                        <img class="rounded-t-lg" src={Mojave} alt="Mojavehome" />
                     </a>
                     <div class="p-5">
-                        <a href="https://mojavehome.com/">
+                        <a href="https://mojavehome.com/" target="_blank">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Mojavehome</h5>
                         </a>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 ">This project is a portfolio website for a furniture company in Indonesia. It emphasizes the development of a visually appealing design. With an elegant and minimalist theme, my team and I created a portfolio website that features an attractive layout and eye-catching animations.</p>
-                        <a href="https://mojavehome.com/" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                        <a href="https://mojavehome.com/" target="_blank" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                             Read more
                             <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -105,17 +105,17 @@ function Projects () {
                     </div>
                 </div>
                 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-                    <a href="https://github.com/jelangfr13/Si-Pets">
-                        <img class="rounded-t-lg" src={SiPets} alt="SEEN" />
+                    <a href="https://github.com/jelangfr13/Si-Pets" target="_blank">
+                        <img class="rounded-t-lg" src={SiPets} alt="SiPets" />
                     </a>
                     <div class="p-5">
-                        <a href="https://github.com/jelangfr13/Si-Pets">
+                        <a href="https://github.com/jelangfr13/Si-Pets" target="_blank">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">SiPets</h5>
                         </a>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
                             This project involves the creation of a website tailored for a pet shop in Indonesia. The platform allows users to engage in transactions similar to a typical e-commerce site, but it focuses specifically on animal adoption. The website features a cashier application system that includesfunctionalities such as user authentication, content search, and more.
                         </p>
-                        <a href="https://github.com/jelangfr13/Si-Pets" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                        <a href="https://github.com/jelangfr13/Si-Pets" target="_blank" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                             Read more
                             <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
