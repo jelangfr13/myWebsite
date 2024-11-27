@@ -58,7 +58,7 @@ function Work () {
                                 <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z"/>
                             </svg>
                         </span>
-                        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white mp:inline-block"><b>Mojavehome</b> - Web Developer Team (Freelance)</h3>
+                        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white mp:inline-block"><b>Fornt-End Web Developer</b> - mojavehome.com (Freelance)</h3>
                         <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">August - September 2024</time>
                         <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400 text-justify">In this project, I worked alongside other members of the development team to design and develop a web portfolio called <a href="https://mojavehome.com/" className="text-blue-900 hover:font-bold">"Mojavehome"</a>. This website showcases the product catalog of our client company. We concentrated on creating an attractive design while ensuring that the product information was presented clearly for customers.</p>
                     </li>
