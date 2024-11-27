@@ -48,9 +48,9 @@ function Work () {
                                 <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z"/>
                             </svg>
                         </span>
-                        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white mp:inline-block"><b>Finance Analyst</b> - Internship Program at PT.Nexwave</h3>
+                        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white mp:inline-block"><b>Front-End Web Developer</b> - Internship Program at PT.Nexwave</h3>
                         <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">February - April 2023</time>
-                        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400 text-justify">During this internship program, I had the opportunity to learn and gain new insights into the field of business economics. I worked on various tasks, including recording and invoicing transactions with clients and service providers, negotiating with clients, and collaborating with employees from other divisions and companies.</p>
+                        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400 text-justify">During this internship, I successfully redesigned the company's main website, giving it a fresh and modern look. With a strong command of React.js and a focus on delivering engaging, user-friendly interfaces, I am well equipped to contribute to future projects and drive innovation in front-end development.</p>
                     </li>
                     <li class="ms-6">
                         <span class="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
@@ -59,7 +59,7 @@ function Work () {
                             </svg>
                         </span>
                         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white mp:inline-block"><b>Mojavehome</b> - Web Developer Team (Freelance)</h3>
-                        <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">September 2024</time>
+                        <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">August - September 2024</time>
                         <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400 text-justify">In this project, I worked alongside other members of the development team to design and develop a web portfolio called <a href="https://mojavehome.com/" className="text-blue-900 hover:font-bold">"Mojavehome"</a>. This website showcases the product catalog of our client company. We concentrated on creating an attractive design while ensuring that the product information was presented clearly for customers.</p>
                     </li>
                 </ol>
