@@ -11,7 +11,7 @@ function Navbar() {
         <nav className="bg-white border-gray-200 dark:bg-gray-900 sticky top-0 z-10">
             <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                 <a className="flex items-center space-x-3 rtl:space-x-reverse">
-                    <img src="https://i.imgur.com/9JR1K28.png" className="h-10" alt="Profile Picture" />
+                    <img src="https://i.imgur.com/5byerJT.jpeg" className="h-10" alt="Profile Picture" />
                     <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Jelang Fikri Ramadhan</span>
                 </a>
                 <button

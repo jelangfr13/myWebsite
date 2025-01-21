@@ -33,9 +33,14 @@ function Home() {
                             <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24"><path fill="currentColor" d="M4 20q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4h16q.825 0 1.413.588T22 6v12q0 .825-.587 1.413T20 20zm8-7l8-5V6l-8 5l-8-5v2z"/></svg>
                         </a>
                     </div>
+                    <div className="mt-8 mp:flex mp:items-center mp:justify-center mp:mt-0 mp:mb-10">
+                        <button className="w-[180px] bg-black text-white px-4 py-2 rounded-xl hover:bg-blue-900 transition-all">
+                            <a href="https://drive.google.com/file/d/1z1srNXGggl0BSQ8QKe42qDLKQQc_SpVt/view?usp=sharing" target="_blank">Download My CV</a>
+                        </button>
+                    </div>
                 </div>
                 <div className="mp:flex mp:items-center mp:justify-center">
-                    <img src="https://i.imgur.com/9JR1K28.png" alt="Profile Picture"/>
+                    <img src="https://i.imgur.com/5byerJT.jpeg" alt="Profile Picture"/>
                 </div>
             </div>
         </section>
